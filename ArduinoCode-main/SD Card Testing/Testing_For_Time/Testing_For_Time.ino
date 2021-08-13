@@ -25,7 +25,7 @@ int mon = 7;
 int dy = 30;
 int hr = 20;
 int mi = 12;
-int time_interval = 1;
+int time_interval = 10;
 boolean measurement_check = true; //set true if measurement has not been done yet
 
 void setup()  {
